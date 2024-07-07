@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": " https://8f60-139-228-60-107.ngrok-free.app"
+    }
+  ]
+}
